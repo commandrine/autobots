@@ -1,1 +1,1 @@
-Python script to dump contents of "robots.txt" hosted on a website.
+Autobots is a small Python utility that retrieves and prints the contents of a website’s robots.txt file, making it easy to quickly inspect crawling rules and disallowed paths for a given site. [github.com]
